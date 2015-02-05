@@ -3,7 +3,7 @@ Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 
 ![](images/unpar.png)
 
-FAKULTAS TEKNOLOGI INFllORMASI DAN SAINS (FTIS)
+FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
 
 UNIVERSITAS KATOLIK PARAHYANGAN
 
@@ -191,12 +191,13 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi
    FTIS untuk menghasilkan lulusan yang:
-* Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
-* Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan    kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+    * Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
+    * Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan    kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang 
    dapat meningkatkan martabat manusia secara langsung ataupun tidak 
    langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses 
-   pembelajaran dan pengabdian kepada masyarakat. 3. Menjalin kerja sama 
+   pembelajaran dan pengabdian kepada masyarakat.
+3. Menjalin kerja sama 
    dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
